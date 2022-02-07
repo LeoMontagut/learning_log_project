@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="device_id" value="050121366e7ecc4-764e-4a1d-b374-2ebd935bf75b"/>
+  <entry key="feature_usage_event_log_salt" value="jQBUmEXnm+KrwZJ0ktin20a7E2fQCA5HE7CnNzCabCk="/>
+  <entry key="mlse_device_id" value="28062135cd575bc-2b91-4702-b326-8f8dbc19a15d"/>
+  <entry key="mlse_feature_usage_event_log_salt" value="8BdFfM/jJ2Fg3cHI3jmOMadeDAXQOG1P+SZoTdCkiMA="/>
+  <entry key="user_id_on_machine" value="4bcf0493-5ff4-4ce4-9a80-bf25849d2fde"/>
+</map>
